@@ -27,10 +27,10 @@ Currently:
 
 ##  Featured Projects
 
-- [`PowerBI-SalesDashboard`](https://github.com/YOUR-USERNAME/PowerBI-SalesDashboard)  
+- [`PowerBI-SalesDashboard`](https://github.com/zainabgoreja/PowerBI-SalesDashboard)  
   A business intelligence dashboard analyzing 5 years of monthly sales data for a battery company.
 
-- [`MedicalBilling-Research`](https://github.com/YOUR-USERNAME/MedicalBilling-Research)  
+- [`MedicalBilling-Research`](https://github.com/zainabgoreja/MedicalBilling-Research)  
   Research on Pakistan’s potential in exporting medical billing services, including SWOT analysis and policy recommendations.
 
 ---
